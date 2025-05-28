@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace elaw.Application.Services
 {
-    internal class AddressApplicationService
+    public class AddressApplicationService
     {
     }
 }

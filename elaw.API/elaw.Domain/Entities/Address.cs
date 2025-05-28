@@ -13,5 +13,7 @@ namespace elaw.Domain.Entities
         public string? City { get; private set; }
         public string? State { get; private set; }
         public string? PostalCode { get; private set; }
+
+        public Customer? Customer { get; set; }
     }
 }
