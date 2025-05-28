@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace elaw.Domain.Services
+namespace elaw.Domain
 {
-    public class CustomerDomainService
+    public class DomainServiceCollectionExtensions
     {
     }
 }

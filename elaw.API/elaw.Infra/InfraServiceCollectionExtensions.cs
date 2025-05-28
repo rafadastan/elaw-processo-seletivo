@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace elaw.Domain.Services
+namespace elaw.Infra
 {
-    public class CustomerDomainService
+    public class InfraServiceCollectionExtensions
     {
     }
 }

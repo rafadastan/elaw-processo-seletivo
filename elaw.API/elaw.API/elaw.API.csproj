@@ -10,4 +10,12 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\elaw.Application\elaw.Application.csproj" />
+    <ProjectReference Include="..\elaw.CrossCutting\elaw.CrossCutting.csproj" />
+    <ProjectReference Include="..\elaw.Domain\elaw.Domain.csproj" />
+    <ProjectReference Include="..\elaw.Infra\elaw.Infra.csproj" />
+    <ProjectReference Include="..\elaw.Test\elaw.Test.csproj" />
+  </ItemGroup>
+
 </Project>

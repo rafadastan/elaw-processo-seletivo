@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace elaw.Domain.Services
+namespace elaw.CrossCutting
 {
-    public class CustomerDomainService
+    public class CrossCuttingServiceCollectionExtensions
     {
     }
 }

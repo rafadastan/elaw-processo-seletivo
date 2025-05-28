@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace elaw.Domain.Services
 {
-    internal class AddressDomainService
+    public class AddressDomainService
     {
     }
 }
