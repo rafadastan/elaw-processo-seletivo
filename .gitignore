@@ -103,6 +103,4 @@ _ReSharper*/
 # Ignore Azure Functions local settings
 local.settings.json
 
-.vs/elaw.API/v17/
-
 .vs/
