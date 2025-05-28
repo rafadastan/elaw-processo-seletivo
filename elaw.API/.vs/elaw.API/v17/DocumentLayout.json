@@ -1,12 +1,190 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\projetos\\elaw-processo-seletivo\\elaw.API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E430CE-695F-46C8-BD77-0B51095F7D38}|elaw.Application\\elaw.Application.csproj|c:\\projetos\\elaw-processo-seletivo\\elaw.api\\elaw.application\\services\\addressapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E430CE-695F-46C8-BD77-0B51095F7D38}|elaw.Application\\elaw.Application.csproj|solutionrelative:elaw.application\\services\\addressapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E430CE-695F-46C8-BD77-0B51095F7D38}|elaw.Application\\elaw.Application.csproj|c:\\projetos\\elaw-processo-seletivo\\elaw.api\\elaw.application\\services\\customerapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E430CE-695F-46C8-BD77-0B51095F7D38}|elaw.Application\\elaw.Application.csproj|solutionrelative:elaw.application\\services\\customerapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C28CFE-24C6-4392-A766-7B4B157166E2}|elaw.Domain\\elaw.Domain.csproj|c:\\projetos\\elaw-processo-seletivo\\elaw.api\\elaw.domain\\services\\customerdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C28CFE-24C6-4392-A766-7B4B157166E2}|elaw.Domain\\elaw.Domain.csproj|solutionrelative:elaw.domain\\services\\customerdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C28CFE-24C6-4392-A766-7B4B157166E2}|elaw.Domain\\elaw.Domain.csproj|c:\\projetos\\elaw-processo-seletivo\\elaw.api\\elaw.domain\\services\\addressdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C28CFE-24C6-4392-A766-7B4B157166E2}|elaw.Domain\\elaw.Domain.csproj|solutionrelative:elaw.domain\\services\\addressdomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C28CFE-24C6-4392-A766-7B4B157166E2}|elaw.Domain\\elaw.Domain.csproj|c:\\projetos\\elaw-processo-seletivo\\elaw.api\\elaw.domain\\validators\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C28CFE-24C6-4392-A766-7B4B157166E2}|elaw.Domain\\elaw.Domain.csproj|solutionrelative:elaw.domain\\validators\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C28CFE-24C6-4392-A766-7B4B157166E2}|elaw.Domain\\elaw.Domain.csproj|c:\\projetos\\elaw-processo-seletivo\\elaw.api\\elaw.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C28CFE-24C6-4392-A766-7B4B157166E2}|elaw.Domain\\elaw.Domain.csproj|solutionrelative:elaw.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C28CFE-24C6-4392-A766-7B4B157166E2}|elaw.Domain\\elaw.Domain.csproj|c:\\projetos\\elaw-processo-seletivo\\elaw.api\\elaw.domain\\validators\\addressvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C28CFE-24C6-4392-A766-7B4B157166E2}|elaw.Domain\\elaw.Domain.csproj|solutionrelative:elaw.domain\\validators\\addressvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C28CFE-24C6-4392-A766-7B4B157166E2}|elaw.Domain\\elaw.Domain.csproj|c:\\projetos\\elaw-processo-seletivo\\elaw.api\\elaw.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C28CFE-24C6-4392-A766-7B4B157166E2}|elaw.Domain\\elaw.Domain.csproj|solutionrelative:elaw.domain\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB51FF0-D310-4D6A-8640-6DD894279B6C}|elaw.API\\elaw.API.csproj|c:\\projetos\\elaw-processo-seletivo\\elaw.api\\elaw.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB51FF0-D310-4D6A-8640-6DD894279B6C}|elaw.API\\elaw.API.csproj|solutionrelative:elaw.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB51FF0-D310-4D6A-8640-6DD894279B6C}|elaw.API\\elaw.API.csproj|c:\\projetos\\elaw-processo-seletivo\\elaw.api\\elaw.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FB51FF0-D310-4D6A-8640-6DD894279B6C}|elaw.API\\elaw.API.csproj|solutionrelative:elaw.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddressApplicationService.cs",
+              "DocumentMoniker": "C:\\projetos\\elaw-processo-seletivo\\elaw.API\\elaw.Application\\Services\\AddressApplicationService.cs",
+              "RelativeDocumentMoniker": "elaw.Application\\Services\\AddressApplicationService.cs",
+              "ToolTip": "C:\\projetos\\elaw-processo-seletivo\\elaw.API\\elaw.Application\\Services\\AddressApplicationService.cs",
+              "RelativeToolTip": "elaw.Application\\Services\\AddressApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:47:44.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerApplicationService.cs",
+              "DocumentMoniker": "C:\\projetos\\elaw-processo-seletivo\\elaw.API\\elaw.Application\\Services\\CustomerApplicationService.cs",
+              "RelativeDocumentMoniker": "elaw.Application\\Services\\CustomerApplicationService.cs",
+              "ToolTip": "C:\\projetos\\elaw-processo-seletivo\\elaw.API\\elaw.Application\\Services\\CustomerApplicationService.cs",
+              "RelativeToolTip": "elaw.Application\\Services\\CustomerApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:47:30.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDomainService.cs",
+              "DocumentMoniker": "C:\\projetos\\elaw-processo-seletivo\\elaw.API\\elaw.Domain\\Services\\CustomerDomainService.cs",
+              "RelativeDocumentMoniker": "elaw.Domain\\Services\\CustomerDomainService.cs",
+              "ToolTip": "C:\\projetos\\elaw-processo-seletivo\\elaw.API\\elaw.Domain\\Services\\CustomerDomainService.cs",
+              "RelativeToolTip": "elaw.Domain\\Services\\CustomerDomainService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:46:25.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddressDomainService.cs",
+              "DocumentMoniker": "C:\\projetos\\elaw-processo-seletivo\\elaw.API\\elaw.Domain\\Services\\AddressDomainService.cs",
+              "RelativeDocumentMoniker": "elaw.Domain\\Services\\AddressDomainService.cs",
+              "ToolTip": "C:\\projetos\\elaw-processo-seletivo\\elaw.API\\elaw.Domain\\Services\\AddressDomainService.cs",
+              "RelativeToolTip": "elaw.Domain\\Services\\AddressDomainService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:46:11.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerValidator.cs",
+              "DocumentMoniker": "C:\\projetos\\elaw-processo-seletivo\\elaw.API\\elaw.Domain\\Validators\\CustomerValidator.cs",
+              "RelativeDocumentMoniker": "elaw.Domain\\Validators\\CustomerValidator.cs",
+              "ToolTip": "C:\\projetos\\elaw-processo-seletivo\\elaw.API\\elaw.Domain\\Validators\\CustomerValidator.cs",
+              "RelativeToolTip": "elaw.Domain\\Validators\\CustomerValidator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:33:50.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddressValidator.cs",
+              "DocumentMoniker": "C:\\projetos\\elaw-processo-seletivo\\elaw.API\\elaw.Domain\\Validators\\AddressValidator.cs",
+              "RelativeDocumentMoniker": "elaw.Domain\\Validators\\AddressValidator.cs",
+              "ToolTip": "C:\\projetos\\elaw-processo-seletivo\\elaw.API\\elaw.Domain\\Validators\\AddressValidator.cs",
+              "RelativeToolTip": "elaw.Domain\\Validators\\AddressValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:33:26.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\projetos\\elaw-processo-seletivo\\elaw.API\\elaw.Domain\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "elaw.Domain\\Entities\\Address.cs",
+              "ToolTip": "C:\\projetos\\elaw-processo-seletivo\\elaw.API\\elaw.Domain\\Entities\\Address.cs",
+              "RelativeToolTip": "elaw.Domain\\Entities\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:09:21.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\projetos\\elaw-processo-seletivo\\elaw.API\\elaw.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "elaw.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\projetos\\elaw-processo-seletivo\\elaw.API\\elaw.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "elaw.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:08:47.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\projetos\\elaw-processo-seletivo\\elaw.API\\elaw.API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "elaw.API\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\projetos\\elaw-processo-seletivo\\elaw.API\\elaw.API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "elaw.API\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:05:55.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\projetos\\elaw-processo-seletivo\\elaw.API\\elaw.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "elaw.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\projetos\\elaw-processo-seletivo\\elaw.API\\elaw.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "elaw.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T12:59:47.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
