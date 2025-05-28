@@ -39,14 +39,16 @@ namespace elaw.Infra.Data.Repositories
             await _dbSet.AddAsync(entity);
         }
 
-        public void Update(T entity)
+        public async Task UpdateAsync(T entity)
         {
             _dbSet.Update(entity);
+            await _context.SaveChangesAsync();
         }
 
-        public void Remove(T entity)
+        public async Task RemoveAsync(T entity)
         {
             _dbSet.Remove(entity);
+            await _context.SaveChangesAsync();
         }
 
         public async Task SaveChangesAsync()
