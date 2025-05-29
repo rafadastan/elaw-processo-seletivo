@@ -1,13 +1,10 @@
-﻿using educaAcao.Domain.Notifications;
-using elaw.Domain.Interfaces.Domain;
+﻿using elaw.Domain.Interfaces.Domain;
 using elaw.Domain.Interfaces.Infra;
+using elaw.Domain.Notifications;
 using FluentValidation;
 using FluentValidation.Results;
-using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 
-namespace educaAcao.Domain.Services
+namespace elaw.Domain.Services
 {
     public abstract class BaseDomainService<TEntity> : IBaseDomainService<TEntity>  where TEntity : class 
     {

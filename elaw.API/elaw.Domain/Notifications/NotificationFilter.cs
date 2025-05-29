@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.Filters;
 using Newtonsoft.Json;
 using System.Net;
 
-namespace educaAcao.Domain.Notifications
+namespace elaw.Domain.Notifications
 {
     public class NotificationFilter : IAsyncResultFilter
     {

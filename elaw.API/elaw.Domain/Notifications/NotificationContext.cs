@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace educaAcao.Domain.Notifications
+namespace elaw.Domain.Notifications
 {
     public class NotificationContext
     {

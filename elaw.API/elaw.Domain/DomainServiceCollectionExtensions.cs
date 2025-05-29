@@ -1,7 +1,9 @@
-﻿using educaAcao.Domain.Notifications;
-using elaw.Domain.Entities;
+﻿using elaw.Domain.Entities;
 using elaw.Domain.Interfaces.Services;
+using elaw.Domain.Notifications;
 using elaw.Domain.Services;
+using elaw.Domain.Validators;
+using FluentValidation;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -19,6 +21,8 @@ namespace elaw.Domain
             services.AddScoped<NotificationContext>();
 
             services.AddScoped<ICustomerDomainService, CustomerDomainService>();
+
+            services.AddScoped<IValidator<Customer>, CustomerValidator>();
 
             return services;
         }
